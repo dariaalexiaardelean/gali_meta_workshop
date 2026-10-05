@@ -1,0 +1,29 @@
+# Slides (kept locally)
+slides/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+*.Rproj.user
+rsconnect/
+
+# Quarto / R Markdown render output
+/.quarto/
+*_files/
+*_cache/
+*.knit.md
+*.utf8.md
+.httr-oauth
+
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
