@@ -1,4 +1,4 @@
-# Introduction to Meta-Analysis in R: Galilean School workshop (2 h)
+# Introduction to Meta-Analysis in R: Galilean School workshop 
 
 A short introduction to the basics of meta-analysis, followed by a live-coded analysis pipeline
 in R with **`metafor`**. The real data come from a living meta-analysis of **psilocybin-assisted therapy
